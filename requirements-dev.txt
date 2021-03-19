@@ -4,7 +4,7 @@ dj-static==0.0.6
 Django==2.2.1
 django-filter==2.1.0
 django-restframework==0.0.1
-djangorestframework==3.9.3
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 iso8601==0.1.12
 isort==4.3.19
